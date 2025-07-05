@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rubber Cheeses</h1>
 <h2 align="center">A new passionate fullstack developer</h2>
 ## This is an H2 heading
+**This is bold text, not a real H2, but inline**
+<span style="font-size: 20px;">This is inline styled text (may or may not render depending on GitHub's sanitization)</span>
+
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rubbercheeses alt=rubbercheeses/> </p>
