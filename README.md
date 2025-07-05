@@ -1,8 +1,8 @@
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm Rubber Cheeses</h1>
 <h2 align="center">A new passionate fullstack developer</h2>
-## This is an H2 heading
-<span style="font-size: 20px">This is inline styled text (may or may not render depending on GitHub's sanitization)</span>
+
+<span style="font-size: 20px">This is inline styled text</span>
 
 <h3 align="center">A passionate fullstack developer</h3>
 
