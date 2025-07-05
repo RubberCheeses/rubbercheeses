@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rubber Cheeses</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+
 - ⚡ Fun fact **I'm unpredictable**
 
 <h3 align="left">Connect with me:</h3>
